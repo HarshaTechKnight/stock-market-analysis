@@ -180,7 +180,7 @@ Contact
 
 For any questions or feedback, please reach out:
 
-- Your Name  
+- M. Sri Harsha  
 - Email: sriharsha0413@gmail.com  
 - GitHub: [HarshaTechKnight](https://github.com/HarshaTechKnight)
 
